@@ -21,5 +21,11 @@ i used openCV cascades(haarcascade_frontalface_default.xml) to detect all the fa
 **faceRecognition.py**
 just for visualizing the results.
 
+some test images the (input/output):
+
+![](images/1.png)
+![](images/2.png)
+
+
 
 
