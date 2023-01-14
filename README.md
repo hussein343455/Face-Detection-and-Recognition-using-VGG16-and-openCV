@@ -1,6 +1,6 @@
 
 ## some general info about the project:
-#### the project is for fun but after finishing it i discovered that there is a far more better ways to make Face recognition
+#### the project is for fun but after finishing it i discovered that there is a far more better ways to do Face recognition
 #### -thes project recognize the following celebrities: "Kevin Hart" ,"ben_afflek" ,"dwayne_johnson" ,"elton_john" ,"jerry_seinfeld", "madonna" , "mindy_kaling", "Ryan Reynolds"
 #### -i gathered the images from the internet and some from kaggle ,20 image per person in training and validation (160 in total).
 #### -before this i made the same project but with 3 celebrities and 66 image per person with 93 testing accuracy so i decreased the number of training data and added more class just for fun XD
