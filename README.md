@@ -25,7 +25,8 @@ some test images the (input/output):
 
 ![1](https://user-images.githubusercontent.com/57813196/212487952-a423abf9-0f46-4074-900a-b733d98ec72e.png)
 
-![](images/2.png)
+![2](https://user-images.githubusercontent.com/57813196/212496086-9bf0edd5-a2e5-4282-a9ad-0c7de5b9143e.png)
+
 
 
 
